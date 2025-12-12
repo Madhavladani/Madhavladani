@@ -1,10 +1,62 @@
-## 👋 About Me  <br><br>I’m a Full Stack Developer & Google Certified UX Design Professional with a passion for building modern, scalable, and user-friendly digital experiences.  <br>With a strong foundation in Computer Applications, Product Design, and UX Strategy, I bridge the gap between engineering and design, delivering products that are both functional and delightful.  <br><br>### 🎓 Education  <br>- 📘 Bachelor of Computer Applications (BCA)  <br>- 🎓 Master of Computer Applications (MCA)  <br><br>### 🏆 Certifications  <br>- Google Certified UX Design Professional  <br>- UX Performance, Persuasion & Strategy Immersion Series – Human Factors International (HFI), Oct 2023  <br>- The Ultimate Figma & UI Masterclass – Designership, Jun 2022  <br>- Product Design Certification – Accenture North America  <br>- Enterprise Design Thinking Practitioner – IBM  <br>- Product Management – Electronic Arts (EA)  <br><br>### 💻 Tech Stack  <br>- Frontend: React, Next.js, Flutter  <br>- Backend: Node.js, Express.js, Firebase, Supabase  <br>- Database: PostgreSQL, MySQL, MongoDB  <br>- Design Tools: Figma, Adobe XD, Photoshop, Illustrator  <br>- Other: Git/GitHub, REST APIs, Agile Development  <br><br>### 💡 Interests & Focus  <br>- 🖥️ Building full-stack applications with seamless user experiences  <br>- 🎨 Designing scalable UI systems and design frameworks  <br>- 🚀 Exploring AI-powered apps & cross-platform development  <br>- 🔐 Security-focused backend systems & modern web architecture  <br><br>### 🌐 Connect With Me  <br>- 💼 [LinkedIn](https://www.linkedin.com/in/madhav-ladani10)  <br>- 🎨 [Behance](https://www.behance.net/madhav-ladani)  <br>- 📧 Email: madhav.ladani10@gmail.com  <br>- 📱 Phone: +91-94280 34195  <br><br>⚡ From logic to launch — I merge development and design to create impactful digital products.  <br>
+# 👋 Hello there! I'm Madhav Ladani
+### 💻 Full Stack Developer | 🎨 Google Certified UX Design Professional
 
+I'm passionate about building **modern, scalable, and user-friendly digital experiences**. I bridge the gap between engineering and design, focusing on delivering products that are both **functional and delightful**.
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/madhav-ladani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madhav-ladani10) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madhav.ladani10@gmail.com) 
+With a strong foundation in Computer Applications, Product Design, and UX Strategy, I specialize in:
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Invision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+* 🖥️  **Full-Stack Development** with a focus on modern web architecture and seamless user experiences.
+* 🎨  **Scalable UI/UX** systems and design frameworks (Certified UX Design Professional).
+* 🔐  **Security-focused** backend systems and modern development practices (Agile).
+* 💡  Exploring **AI-powered apps** and cross-platform development.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🛠️ Tech Stack & Toolkit
+
+Here are the technologies I primarily work with:
+
+### Frontend & Mobile
+* **Frameworks:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+* **Other:** ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+
+### Backend & Database
+* **Backend:** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+* **Databases:** ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+* **BaaS/APIs:** ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
+
+### Design & Prototyping
+* ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+---
+
+## 🏆 Certifications & Education
+
+### 🥇 Key Certifications
+* **Google Certified UX Design Professional**
+* **UX Performance, Persuasion & Strategy Immersion Series** – Human Factors International (HFI), Oct 2023
+* **Product Design Certification** – Accenture North America
+* **Enterprise Design Thinking Practitioner** – IBM
+* **Product Management** – Electronic Arts (EA)
+
+### 📚 Education
+* 🎓 Master of Computer Applications (MCA)
+* 📘 Bachelor of Computer Applications (BCA)
+
+---
+
+## 🤝 Connect With Me
+
+Feel free to reach out for collaborations or a quick chat!
+
+| Platform | Link |
+| :--- | :--- |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madhav-ladani10) |
+| **Behance** | [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/madhav-ladani) |
+| **Email** | [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madhav.ladani10@gmail.com) |
+
+---
+
+<p align="center">
+  **⚡ From logic to launch — I merge development and design to create impactful digital products.**
+</p>
